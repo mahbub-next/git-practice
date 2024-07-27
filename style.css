@@ -1,0 +1,25 @@
+body{
+    background: pink;
+}
+
+.h1{
+    color: white;
+}
+
+
+p{
+
+    text-align: centet;
+    color: white;
+    background-color: red;
+}
+
+
+p{
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hello {
+    background-color: red;
+}
