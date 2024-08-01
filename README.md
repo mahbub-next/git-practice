@@ -88,3 +88,6 @@ https://google.com
 | Onjoy | onjoy@gmail.com | ndjnfjfnjfnjf |
 
 ## Thank you 
+
+git remote add origin [Link here]
+git push -u orgine master
